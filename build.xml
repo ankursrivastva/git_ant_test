@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="tomcat-demo" default="help" basedir=".">
+	
+	<target name="help">
+	<echo>Ant setup is done and its working</echo>
+		
+	</target>
+	
+	<target name="help2">
+	<echo>Ant snon default method</echo>
+		
+	</target>
+
+</project>
